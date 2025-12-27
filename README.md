@@ -7,6 +7,12 @@
 
 An industrial-grade computer vision system for automated quality inspection of metal nuts using **MobileNetV2-based transfer learning**. Designed for real-time, lightweight, and accurate defect detection under limited data conditions.
 
+<img width="1831" height="673" alt="image" src="https://github.com/user-attachments/assets/4c4203ec-7f6b-44bd-a39e-3592de15f3c6" />
+<img width="1836" height="889" alt="image" src="https://github.com/user-attachments/assets/48fada2b-46b8-45af-ac52-ed86a93a1f91" />
+<img width="1798" height="522" alt="image" src="https://github.com/user-attachments/assets/e57d2a4f-598a-4f8e-a6a6-77c52bd2374c" />
+
+
+
 ---
 
 ## Project Overview
